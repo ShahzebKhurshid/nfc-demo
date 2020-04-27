@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nfc-Demo</string>
+    <string name="search_contact">search contact</string>
+    <string name="name">Name:</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="phone">Phone:</string>
+    <string name="email">Email:</string>
+    <string name="address">Address:</string>
+    <string name="linkedin">LinkedIn:</string>
+</resources>
